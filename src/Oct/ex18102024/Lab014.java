@@ -23,7 +23,7 @@ public class Lab014 {
             case 10 -> System.out.println("October");
             case 11 -> System.out.println("November");
             case 12 -> System.out.println("December");
-            default -> {throw new IllegalStateException("Unexpected value: " + choice);}
+            default -> throw new IllegalStateException("Unexpected value: " + choice);
         }
     }
 }
