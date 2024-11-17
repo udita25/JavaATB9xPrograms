@@ -1,4 +1,4 @@
-package Oct.ex01112024;
+package Nov.ex05112024;
 
 class Dog {
     private String name;

@@ -1,4 +1,4 @@
-package Oct.ex01112024;
+package Nov.ex05112024;
 
 public class Lab024 {
     public static void main(String[] args){

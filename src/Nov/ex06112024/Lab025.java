@@ -1,11 +1,11 @@
-package Oct.ex06112024;
+package Nov.ex06112024;
 
 public class Lab025 {
     public static void main(String[] args) {
         Dog d = new Dog("Labrador");
         d.makeSound();
         System.out.println(d.species);
-        
+
     }
 
 }
